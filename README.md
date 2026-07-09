@@ -55,7 +55,7 @@ Scalable AI services with observability (OpenTelemetry), structured logging, mon
 - Designing enterprise-grade multi-agent orchestration systems
 - Researching context engineering for long-horizon agent tasks
 - Exploring cost-efficient deployment patterns for production AI
-- Writing about AI engineering at [abinesh.blog](https://abinesh.blog)
+- Writing about AI engineering on [Medium](https://medium.com/@abinesh_ai)
 
 ---
 
