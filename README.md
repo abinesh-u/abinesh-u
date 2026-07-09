@@ -1,128 +1,72 @@
 <img width="1774" height="887" alt="image" src="https://github.com/user-attachments/assets/a1ca6c3a-964c-405b-b020-7999716a1ad0" />
 
-
 # Abinesh U
 
-AI Engineer focused on building agentic AI systems, production AI applications, and scalable AI infrastructure.
+**AI Engineer** · Building agentic AI systems, multi-agent architectures, and production-grade AI applications.
 
-I work at the intersection of AI engineering, system design, and production deployment. My focus is transforming foundation models into reliable products through orchestration, retrieval systems, observability, infrastructure, and engineering best practices.
+I design and ship systems where LLMs do real work — not demos, but deployable pipelines with memory, orchestration, retrieval, and observability baked in. My work sits at the boundary of AI engineering and system design: turning foundation models into reliable, scalable products.
 
-My long-term goal is to design intelligent systems that operate reliably at scale rather than simply building model demos.
-
----
-
-## Core Technologies
-
-- Agentic AI Systems
-- Multi-Agent Architectures
-- Retrieval-Augmented Generation (RAG)
-- Voice AI Applications
-- Production AI Infrastructure
-- AI System Design
-- Context Engineering
-- Observability & Evaluation
+> I care more about systems that work at scale than benchmarks that look good on paper.
 
 ---
 
-## What I Build
+## What I Work On
 
 ### Agentic AI Systems
-
-Designing and implementing multi-agent workflows using LangGraph, structured state management, memory systems, planning strategies, tool orchestration, and agent collaboration patterns.
+Multi-agent workflows with LangGraph — structured state, planning strategies, memory architectures, tool orchestration, and agent collaboration patterns that hold up in production.
 
 ### Retrieval-Augmented Generation (RAG)
-
-Building production-grade retrieval systems with hybrid search, reranking, context compression, vector databases, evaluation frameworks, and access control.
+Production RAG pipelines with hybrid search, reranking, context compression, vector databases (Qdrant), evaluation frameworks, and access control. Built for accuracy, not just speed.
 
 ### Voice AI Applications
-
-Developing low-latency voice systems that combine speech recognition, LLM reasoning, retrieval workflows, and speech synthesis.
+Low-latency voice systems that chain speech recognition → LLM reasoning → retrieval → speech synthesis into real-time, telephony-ready pipelines.
 
 ### Production AI Infrastructure
-
-Creating scalable AI services with observability, monitoring, deployment automation, governance, and cloud-native engineering practices.
-
----
-
-## Engineering Philosophy
-
-I am particularly interested in the systems behind AI applications—not just the models themselves.
-
-My focus is understanding how orchestration, retrieval, memory, evaluation, observability, infrastructure, and user experience work together to create reliable AI products.
-
-I believe the future of AI engineering is not only about building better models but also about designing better systems around those models.
+Scalable AI services with observability (OpenTelemetry), structured logging, monitoring, deployment automation, and cloud-native engineering patterns.
 
 ---
 
 ## Flagship Projects
 
-| Project | Description |
-|----------|-------------|
-| [Hermes_AI](https://github.com/abinesh-u/Hermes_AI) | Real-time voice AI orchestration platform combining speech recognition, agentic workflows, retrieval systems, and speech synthesis into a low-latency pipeline. |
-| [athena-ai](https://github.com/abinesh-u/athena-ai) | Production-oriented RAG platform featuring query optimization, reranking, vector search, document access controls, and scalable deployment architecture. |
-| [AegisAI](https://github.com/abinesh-u/AegisAI) | Enterprise trust and fraud intelligence system focused on explainable reasoning, calibrated confidence scoring, and governed AI decision-making. |
-| [agentic-patterns](https://github.com/abinesh-u/agentic-patterns) | Practical implementations of planning, memory, reflection, tool use, and multi-agent coordination patterns. |
+| Project | What it does |
+|---|---|
+| [Hermes\_AI](https://github.com/abinesh-u/Hermes_AI) | Real-time voice AI platform — speech recognition, agentic workflows, retrieval, and synthesis in a single low-latency pipeline. |
+| [athena-ai](https://github.com/abinesh-u/athena-ai) | Production RAG platform with query optimization, reranking, vector search, document access controls, and scalable deployment. |
+| [AegisAI](https://github.com/abinesh-u/AegisAI) | Enterprise trust and fraud intelligence system with explainable reasoning, calibrated confidence scoring, and governed AI decision-making. |
+| [agentic-patterns](https://github.com/abinesh-u/agentic-patterns) | A practical reference for planning, memory, reflection, tool use, and multi-agent coordination patterns. |
 | [fusion-cli](https://github.com/abinesh-u/fusion-cli) | CLI tool that scaffolds production-ready FastAPI MVPs from product ideas using AI-assisted workflows. |
 
 ---
 
-## ## Areas of Expertise
+## Tech Stack
 
-### AI Orchestration
-LangGraph · LangChain · Multi-Agent Systems
-
-### Foundation Models
-OpenAI · Gemini · Qwen
-
-### Retrieval Systems
-RAG · Qdrant · Hybrid Search · Reranking
-
-### Voice AI
-Deepgram · Real-Time Speech Pipelines · Telephony Integrations
-
-### Backend & Infrastructure
-Python · FastAPI · Docker · Kubernetes
-
-### Cloud Platforms
-AWS · Google Cloud
-
-### Observability
-OpenTelemetry · Structured Logging · Monitoring
-
-### Languages
-Python · TypeScript
+**Orchestration** · LangGraph · LangChain · Multi-Agent Systems  
+**Models** · OpenAI · Gemini · Qwen  
+**Retrieval** · Qdrant · Hybrid Search · Reranking · RAG  
+**Voice** · Deepgram · Real-Time Speech · Telephony  
+**Backend** · Python · FastAPI · TypeScript  
+**Infra** · Docker · Kubernetes · AWS · Google Cloud  
+**Observability** · OpenTelemetry · Structured Logging · Monitoring  
 
 ---
 
-## Current Focus
+## Currently
 
-- Building production-grade agentic AI applications
-- Exploring multi-agent architectures and orchestration patterns
-- Studying AI system design and infrastructure engineering
-- Researching context engineering for long-horizon agent workflows
-- Developing scalable and cost-efficient enterprise AI systems
+- Designing enterprise-grade multi-agent orchestration systems
+- Researching context engineering for long-horizon agent tasks
+- Exploring cost-efficient deployment patterns for production AI
+- Writing about AI engineering at [abinesh.blog](https://abinesh.blog)
 
 ---
 
 ## Connect
 
-🌐 Website: https://abinesh.blog
-
-💼 LinkedIn: https://www.linkedin.com/in/abineshu/
-
-🔬 ORCID: https://orcid.org/0009-0006-2504-129X
+🌐 [abinesh.blog](https://abinesh.blog)  
+💼 [LinkedIn](https://www.linkedin.com/in/abineshu/)  
+🔬 [ORCID](https://orcid.org/0009-0006-2504-129X)  
 
 ---
 
-## Open to Collaboration
+## Open to
 
-I am interested in collaborating on:
-
-- Agentic AI Systems
-- Multi-Agent Applications
-- Enterprise RAG Platforms
-- Voice AI Infrastructure
-- Open Source AI Tooling
-- AI Engineering and System Design Projects
-
-Feel free to connect through LinkedIn, GitHub Discussions, or email.
+Collaborating on agentic AI systems, enterprise RAG platforms, voice AI infrastructure, and AI engineering projects. Reach out via LinkedIn or GitHub Discussions.
